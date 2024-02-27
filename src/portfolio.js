@@ -169,7 +169,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "Some of the big projects I have worked on",
+  subtitle: "",
   projects: [
     {
       image: require("./assets/images/ski.png"),
